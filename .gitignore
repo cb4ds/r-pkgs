@@ -1,12 +1,13 @@
+r-pkgs.rds
 *.pdf
 .Rproj.user
 .Rhistory
 _cache
-_site
+_book
 cache
 diamonds.csv
 temp.Rmd
-*.html
 *_cache
 *_files
 figures
+r-pkgs.tex
